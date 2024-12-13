@@ -1,0 +1,25 @@
+Frontend
+Technologies utilisées : HTML, CSS
+Fonctionnalités principales : Interface utilisateur pour la navigation sur le site e-commerce.
+Backend
+Langage : PHP
+Version PHP : 8.3.14
+Framework : Aucun, PHP natif
+
+Base de Données
+Type de base de données : MySQL
+Version : 9.1.0 - MySQL Community Server (GPL)
+Charset utilisé : UTF-8 Unicode (utf8mb4)
+Connexion : Via TCP/IP (127.0.0.1)
+
+Serveur Web
+Type : Apache
+Version : Apache/2.4.62 (Win64)
+
+
+Environnement Local
+Serveur local : WAMP Server
+Versions des composants WAMP :
+Apache : 2.4.62
+PHP : 8.3.14
+MySQL : 9.1.0
